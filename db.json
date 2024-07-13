@@ -103,6 +103,14 @@
       "linkImagenVideo": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
       "titulo": "¿Qué es SQL y NoSQL?",
       "id": 17
+    },
+    {
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "linkVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "linkImagenVideo": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "titulo": "¿Qué son las metodologias ágiles?",
+      "id": 18
     }
     
   ],
